@@ -17,6 +17,8 @@
 
 	time.timeZone = "Asia/Dhaka";
 
+	services.gvfs.enable = true;
+	services.udisks2.enable = true;
 	services.pulseaudio.enable = false;
 	services.getty.autologinUser = "akib";
 	services.openssh.enable = true;
@@ -33,13 +35,26 @@
 	hardware.bluetooth.enable = true;
 	hardware.bluetooth.powerOnBoot = true;
 	
+	programs.hyprlock.enable = true;
 	programs.hyprland = {
 		enable = true;
 		xwayland.enable = true;
 	};
+	programs.neovim = {
+		enable = true;
+		defaultEditor = true;
+	};
+	
+	environment.variables = {
+		EDITOR = "nvim";
+		VISUAL = "nvim";
+		SUDO_EDITOR = "nvim";
+		SYSTEMD_EDITOR = "nvim";
+	};
 
   	users.users.akib = {
     		isNormalUser = true;
+		shell = pkgs.nushell;
 		extraGroups = [ "wheel" "libvirtd" "disk" "storage"  ];
     		packages = with pkgs; [
       			tree
@@ -47,19 +62,24 @@
   	};
 
   	environment.systemPackages = with pkgs; [
+		ani-cli
 		btop
 		bluez
 		cliphist
 		fzf
 		gcc
     		git
+		glib
 		gparted
+		hypridle
+		hyprpolkitagent
     		hyprpaper
     		kitty
 		mpv
 		neovim
     		qutebrowser
 		rofi
+		trash-cli
 		unzip
     		vim 
     		waybar
