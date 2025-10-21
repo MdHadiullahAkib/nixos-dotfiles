@@ -83,6 +83,7 @@
 		unzip
     		vim 
     		waybar
+		wlogout
 		wl-clipboard
     		wget
 		yazi
@@ -94,6 +95,16 @@
 		yaziPlugins.relative-motions
 		yt-dlp
 		zoxide	
+
+		#neovim require
+		ripgrep
+		fd
+		gnumake
+		nodejs_24
+		python3
+		rustup
+		lua
+		luajitPackages.luarocks-nix
         
   	];
 	fonts.packages = with pkgs;[
