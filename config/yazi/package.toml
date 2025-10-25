@@ -1,0 +1,32 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:mount"
+rev = "9a52857"
+hash = "4fccaaf10c36dc2466e2438a386ff017"
+
+[[plugin.deps]]
+use = "grappas/wl-clipboard"
+rev = "e9a38e4"
+hash = "6b8e5d6b09626facec713923d3ddb54b"
+
+[[plugin.deps]]
+use = "uhs-robert/recycle-bin"
+rev = "03f6c4a"
+hash = "f14a951bf376d7fe73033c4a48aa5fa4"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:toggle-pane"
+rev = "9a52857"
+hash = "8a7c58225816a163a6e8730c0adafbc8"
+
+[[plugin.deps]]
+use = "Deepak22903/kdeconnect-send"
+rev = "5757a65"
+hash = "c23a7c129f3b972569414c8f2a5dd823"
+
+[[plugin.deps]]
+use = "boydaihungst/gvfs"
+rev = "3da616f"
+hash = "579fb316335d6ec565913ca09f4bc799"
+
+[flavor]
+deps = []

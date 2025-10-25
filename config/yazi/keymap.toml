@@ -1,0 +1,25 @@
+[[mgr.prepend_keymap]]
+on  = "M"
+run = "plugin mount"
+
+[[mgr.prepend_keymap]]
+on   = "T"
+run  = "plugin toggle-pane max-preview"
+
+[[mgr.prepend_keymap]]
+on = "<C-y>"
+run = "plugin wl-clipboard"
+
+[[mgr.prepend_keymap]]
+on = ["R","b"]
+run = "plugin recycle-bin"
+desc = "Open Recycle Bin menu"
+
+[[mgr.prepend_keymap]]
+on   = [ "<C-s>" ]
+run  = "plugin kdeconnect-send"
+desc = "Send selected files via KDE Connect"
+
+[[mgr.prepend_keymap]]
+on = [ "<C-m>" ]
+run = "plugin gvfs -- selec-then-mount --jump"

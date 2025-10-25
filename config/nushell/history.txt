@@ -1,0 +1,307 @@
+ls
+yazi
+balkama
+ls
+z
+yazi
+zsh
+nvim
+yazi
+cd nixos-dotfiles/
+ls
+vim home.nix 
+nvim home.nix 
+cd
+y
+yazi
+nvim .config/yazi/yazi.toml 
+yazi
+kitten themes
+ls
+nvim
+yazi
+kitten themes
+yazi
+kitten themes
+Hyprland
+yazi
+hyprctl dispatch exit
+btop
+yazi
+y
+shutdown now
+home-manager generations
+bash
+bach
+cd nixos-dotfiles/
+git status
+git diff home.nix
+nano
+y
+yazi
+y
+yazi
+cd nixos-dotfiles/
+git status
+git diff home.nix
+yazi
+git status
+git diff home.nix
+shutdown now
+reboot
+waybar
+nvim .config/waybar/config 
+waybar
+nvim .config/waybar/style.css
+nvim .config/hypr/hyprland
+nvim .config/hypr/hyprland.conf 
+wlogout
+yazi
+nvim nixos-dotfiles/configuration.nix 
+pkill waybar
+waybar & disown
+waybar && disown
+waybar $ disown
+waybar disown
+waybar 
+job spawn waybar
+waybar job spawn
+hyprctl dispatch exec waybar
+gcc
+unzip
+make
+ripgrep
+fd-find
+nvim
+shutdown now
+nvim
+cd .config/nvim/
+ls
+rm *
+rm -rf *
+ls
+git clone https://github.com/hendrikmi/neovim-kickstart-config.git ./
+ls
+nvim
+rm -rf ~/.local/share/nvim
+nvim
+make
+yazi
+nix-shell -p ripgrep fd gnumake nodejs_24 python3
+nvim
+$nu.env-path
+yazi
+wlogout
+hyprlock
+wlogout
+yazi
+hyprctl dispatch exit
+Hyprland
+waybar
+wlogout
+bash
+nixos-option environment.systemPackages
+cd nixos-dotfiles/
+git status
+git diff configuration.nix
+git diff home.nix
+config nu
+$env.config.buffer_editor = "nvim"
+config nu
+bash
+shutdown now
+reboot
+yazi
+cd nixos-dotfiles/
+ls
+git status
+git diff home.nix
+git diff configuration.nix
+shutdown now
+nvim nixos-dotfiles/configuration.nix 
+nvim
+nvim .
+yazi
+balkama
+yazi
+balkama
+yazi
+reboot
+yazi
+reboot
+help cp
+help Hypeland
+nvim
+$env | reject config | transpose key val | each {|r| echo $"$env.($r.key) = '($r.val)'"} | str join (char nl)
+yazi
+$env | reject config | transpose key val | each {|r| echo $"$env.($r.key) = '($r.val)'"} | str join (char nl)
+la
+ls
+lakdfj | is empty
+$env.WAYLAND_DISPLAY | is-empty
+$env.XDG_VTNR=1
+$env.XDG_VTNR =1
+$env.XDG_VTNR = 1
+$env.XDG_VTNR == 1
+help if
+$env.XDG_VTNR == 1
+$env.WAYLAND_DISPLAY | is-empty
+$env.XDG_VTNR == 1
+help length
+help if length
+$env.WAYLAND_DISPLAY
+$env.WAYLAND_DISPLAY in $env
+$env.WAYLAND_DISPLAY
+$env.WAYLAND_DISPLAY not-in $env
+WAYLAND_DISPLAY in $env
+'WAYLAND_DISPLAY' in $env
+$env | reject config | transpose key val | each {|r| echo $"$env.($r.key) = '($r.val)'"} | str join (char nl)
+yazi
+$env.XDG_VTNR == 1
+'WAYLAND_DISPLAY' in $env
+('WAYLAND_DISPLAY' in $env)
+('WAYLAND_DISPLAY' in $env) and ()
+('WAYLAND_DISPLAY' in $env) and ($env.XDG_VTNR == '1')
+$env.XDG_VTNR == 1
+('WAYLAND_DISPLAY' in $env) or ($env.XDG_VTNR == '1')
+(('WAYLAND_DISPLAY' in $env) and ($env.XDG_VTNR == '1'))
+(('WAYLAND_DISPLAY' in $env) + ($env.XDG_VTNR == '1'))
+$env.XDG_VTNR
+$env.XDG_VTNR == 1
+$env.XDG_VTNR == '1'
+$env.XDG_VTNR = 1
+$env.XDG_VTNR
+$env.XDG_VTNR = 2
+$env.XDG_VTNR
+Hyprland
+$env.XDG_VTNR
+$env.XDG_VTNR == '1'
+(('WAYLAND_DISPLAY' in $env) and ($env.XDG_VTNR == '1'))
+$env.XDG_VTNR == '1'
+(('WAYLAND_DISPLAY' not-in $env) and ($env.XDG_VTNR == '1'))
+reboot
+yazi
+$env.XDG_VTNR == '1'
+$env.XDG_VTNR 
+qutebrowser
+reboot
+hyprctl montitors all
+sudo hyprctl monitors all
+hyprctl montitors all
+bash
+yazi
+pkill waybar
+waybar job spawn
+hyprctl dispatch exec waybar
+y
+cd nixos-dotfiles/
+git diff configuration.nix
+git diff home.nix
+git status
+git add .
+git commit -m "nvim dependencies and nushell deattachment from config"
+git status
+waybar
+yazi
+nix-shell -p scrcpy
+gvfs
+fstab
+gvfs
+bash
+id -u
+whoami
+yazi
+nvim .config/yazi/yazi.toml 
+y
+ls
+y
+$EDITOR
+nvim
+echo $EDITOR
+export EDITOR=nvim
+$EDITOR=nvim
+$EDITOR = nvim
+y
+nvim yazi.toml
+pidof dbus-launchh
+lsusb
+gio mount
+lsblk
+nix-shell -p jmtpfs
+wpctl
+wpctl status
+pip
+yt-dlp
+fzf
+y
+cliphist-fzf 
+abt
+bat
+nix-shell -p ytfzf<\n>
+exit
+btop
+for i in /sys/class/hwmon/hwmon*/temp*_input; do echo "$(<$(dirname $i)/name): $(cat ${i%_*}_label 2>/dev/null || echo $(basename ${i%_*})) $(readlink -f $i)"; done
+bash
+hyprpolkitagent
+nvim $nu.env-path
+$env
+y
+nu --version
+nvim $nu.env-path
+hyprpolkitagent
+nvim .config/hypr/hyprland.conf 
+nvim nixos-dotfiles/configuration.nix 
+gparted
+sudo gparted
+nvim .config/hypr/hyprland.conf 
+nvim nixos-dotfiles/configuration.nix 
+systectl --user start hyprpolkitagent
+systemctl --user start hyprpolkitagent
+nvim .config/hypr/hyprland.conf 
+y
+cd
+starship preset pastel-powerline -o ~/.config/starship.toml
+y
+hypridle
+hyprctl dispatch dpms of
+btop
+z .config/
+z
+yazi
+nvim
+balkama
+nvim nixos-dotfiles/configuration.nix 
+balkama
+reboot
+starship preset pastel-powerline -o ~/.config/starship.toml
+y
+reboot
+y
+reboot
+starship
+y
+git status
+git diff configuration.nix
+y
+ytfzf "starship"
+git commit -m "screen share cli-tools-ani-cli-ytfzf nushell-starship-carapace"
+git add .
+git commit -m "screen share cli-tools-ani-cli-ytfzf nushell-starship-carapace"
+git status
+carapace
+qutebrowser
+ani-cli ben ten alien force
+ani-cli ben
+git config --list
+cat
+cd
+ssh-keygen
+cd .ssh/
+ls
+cat id_ed25519.pub 
+cd
+cd nixos-dotfiles/
+ls
+git remote add origin git@github.com:MdHadiullahAkib/nixos-dotfiles.git
+git push -u origin main
+git status
