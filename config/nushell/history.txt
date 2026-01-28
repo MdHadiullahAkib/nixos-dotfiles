@@ -305,3 +305,155 @@ ls
 git remote add origin git@github.com:MdHadiullahAkib/nixos-dotfiles.git
 git push -u origin main
 git status
+y
+git status
+git add .
+git rm --cached config/nvim
+git status
+git restore config
+git status
+y
+git status
+git add .
+git status
+git commit -m "added config"
+git push -u origin main
+git status
+y
+git status
+y
+git status
+git add .
+git commit -m "removed problematic nvim dir"
+git push -u origin main
+y
+git status
+git add .
+git commit -m "added nvim dir"
+git status
+git push -u origin main
+ytfzf -t 
+ytfzf bijoy bayanno in linux
+blueman-manager
+ani-cli hostle
+ani-cli hotel
+ytfzf bijoy bayanno in linux
+y
+ytfzf bijoy bayanno in linux
+gparted
+sudo gparted
+sudo -E gparted
+virsh --help
+virsh net-autostart default
+virsh net-start default
+sudo virsh net-autostart default
+sudo virsh net-start default
+y
+scrcpy
+reboot
+scrcpy
+ani-cli ben 10
+ani-cli ben ten
+ani-cli ben
+mov-cli ben
+mpv
+mpv 'https://www.youtube.com/watch?v=VX45nw2OFxo'
+cd Downloads/
+ls
+ytdlp -F 'https://www.youtube.com/watch?v=VX45nw2OFxo'
+yt-dlp -F 'https://www.youtube.com/watch?v=VX45nw2OFxo'
+yt-dlp -f 400+ba 'https://www.youtube.com/watch?v=VX45nw2OFxo'
+hypridle
+y
+reboot
+nix-shell -p vivaldi
+nix-shell -p brave
+qutebrowser
+y
+scrcpy
+btop
+btoo
+btop
+scrcpy
+neofetch
+fadslfkj
+pwd
+ls
+ls -la
+cd .config/
+ls
+nvim hypr/hyprland.conf 
+scrcpy
+btop
+pkill hypridle
+btop
+scrcpy
+ytfzf bijoy bayanno in linux
+yt-dlp -f 400+ba 'https://www.youtube.com/watch?v=VX45nw2OFxo'
+yt-dlp -F 'https://www.youtube.com/watch?v=qjt_-EVHkZM'
+yt-dlp  'https://www.youtube.com/watch?v=qjt_-EVHkZM'
+yt-dlp -F 'https://www.youtube.com/watch?v=qjt_-EVHkZM'
+cd nixos-dotfiles/
+ls
+git status
+gparted
+sudo gparted
+btop
+lsblk
+yt-dlp --version
+sudo nix flake update
+cd nixos-dotfiles/
+sudo nix flake update
+waybar
+balkama
+waybar
+reboot
+sudo gparted
+btop
+reboot
+btop
+hyprpaper
+hyprctl dispatch exit
+reboot
+cd nixos-dotfiles/
+git 
+git status
+git add .
+git status
+yazi
+git add .
+git status
+balkama
+hyprctl dispatch exit
+btw
+y
+reboot
+yt-dlp --version
+y
+yt-dlp  'https://www.youtube.com/watch?v=qjt_-EVHkZM'
+yt-dlp  'https://www.youtube.com/watch?v=qjt_-EVHkZM' --cookies-from-browser
+yt-dlp --cookies-from-browser  'https://www.youtube.com/watch?v=qjt_-EVHkZM'
+yt-dlp --cookies-from-qutebrowser  'https://www.youtube.com/watch?v=qjt_-EVHkZM'
+btop
+y
+hyprctl dispatch exit
+y
+wpctl status
+wpctl
+wpctl set-default 96
+wpctl set-default 80
+wpctl set-default-sink 96
+wpctl set-default 96
+wpctl status | sed -n '/Sinks:/,/Sources:/p' | string replace -a '├' '' | string replace -a '─' '' | string replace -a '│' '' | string replace -a '└' '' | string match -r '.*\[vol:.*' | string replace -r '\s*\[vol:.*$' '' | string replace -r '^\s*(\d+)\.' '$1\t' | string replace -r '.*?\\*.*?(\\d+).*?(\\w.*$)' '<b>$1 $2 *</b>' | string replace -r '\s+' ' ' | wofi --show=dmenu --hide-scroll --allow-markup | read -l choice; and wpctl set-default (string match -r '^\d+' "$choice")<\n>
+wpctl status
+wpctl set-default "96"
+wpctl set-default [96]
+wpctl set-default 64
+wpctl set-default 65
+wpctl status
+wpctl set-default 100
+wpctl @DEFAULT_SINK@
+wpctl clear-default
+wpctl status
+curl wttr.in/nyc
+curl wttr.in/dhaka

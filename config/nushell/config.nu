@@ -37,7 +37,7 @@ $env.config.hooks.pre_prompt = ($env.config.hooks.pre_prompt | append {||
 })
 
   if (( 'WAYLAND_DISPLAY' not-in $env ) and ($env.XDG_VTNR == '1')) {
-    exec Hyprland
+    exec start-hyprland
   }
 
 def --env y [...args] {

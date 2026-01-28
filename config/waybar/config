@@ -16,11 +16,11 @@
     "modules-right": [
         "network",
         "clock",
-	"wireplumber"
+        "wireplumber"
     ],
     
     "custom/arch": {
-        "format": "󰣇",
+        "format": "",
         "tooltip": true,
         "tooltip-format": "btw"
     },
@@ -76,7 +76,7 @@
     },
     "network": {
         "format-wifi": "   {bandwidthDownBytes} ({signalStrength}%)",
-        "format-ethernet": "{ipaddr}/{cidr} ",
+        "format-ethernet": " {bandwidthDownBytes} {ipaddr}/{cidr} ",
         "tooltip-format": "{essid} {ifname} via {gwaddr} ",
         "format-linked": "{ifname} (No IP) ",
         "format-disconnected": "Disconnected ⚠",
