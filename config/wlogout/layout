@@ -4,7 +4,12 @@
     "text" : "Shutdown",
     "keybind" : "s"
 }
-
+{
+    "label" : "reboot",
+    "action" : "systemctl reboot",
+    "text" : "Reboot",
+    "keybind" : "r"
+}
 {
     "label" : "lock",
     "action" : "hyprlock",
@@ -17,9 +22,4 @@
     "text" : "Logout",
     "keybind" : "e"
 }
-{
-    "label" : "reboot",
-    "action" : "systemctl reboot",
-    "text" : "Reboot",
-    "keybind" : "r"
-}
+

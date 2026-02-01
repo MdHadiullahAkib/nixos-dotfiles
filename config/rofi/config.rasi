@@ -169,4 +169,6 @@ configuration {
   }
 }
 
-@theme "/nix/store/ij44x3sgc9mqzvkjv1qfkbm55g1mi94w-rofi-2.0.0/share/rofi/themes/material.rasi"
+//@theme "/nix/store/ij44x3sgc9mqzvkjv1qfkbm55g1mi94w-rofi-2.0.0/share/rofi/themes/material.rasi"
+
+@theme "/nix/store/ij44x3sgc9mqzvkjv1qfkbm55g1mi94w-rofi-2.0.0/share/rofi/themes/arthur.rasi"

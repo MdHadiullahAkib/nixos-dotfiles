@@ -53,6 +53,7 @@
     };
     environment.systemPackages = with pkgs; [
         ani-cli
+        aria2
         btop
         bluez
         carapace
