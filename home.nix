@@ -26,5 +26,15 @@
 	#      };
 	#   };
 	};
+
+		programs.obs-studio = {
+			enable = true;
+			plugins = with pkgs.obs-studio-plugins; [
+				droidcam-obs
+				obs-backgroundremoval
+				obs-pipewire-audio-capture
+			];
+		  };
+
 	#home.file.".config/hypr".source = ./config/hypr;
 }

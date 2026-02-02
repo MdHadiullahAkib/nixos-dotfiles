@@ -10,6 +10,14 @@
     boot.kernelPackages = pkgs.linuxPackages_latest;
     boot.kernelParams = [ "usbcore.autosuspend=-1" ];
     boot.supportedFilesystems = [ "ntfs" "btrfs" "exfat" "xfs" ];
+
+    boot.extraModulePackages = with config.boot.kernelPackages; [
+        v4l2loopback
+    ];
+    boot.extraModprobeConfig = ''
+        options v4l2loopback devices=1 video_nr=1 card_label="OBS Cam" exclusive_caps=1
+    '';
+
     networking.hostName = "nixos-minipc-btw"; 
     networking.networkmanager.enable = true;  
     time.timeZone = "Asia/Dhaka";
@@ -67,6 +75,7 @@
         hyprpolkitagent
         hyprpaper
         jmtpfs
+        stable.kdePackages.kdenlive
         kitty
         mpv
         neovim
