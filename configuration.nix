@@ -62,13 +62,18 @@
     environment.systemPackages = with pkgs; [
         ani-cli
         aria2
+        audacity
         btop
         bluez
+        bottles
+        browsh
         carapace
         cliphist
+        fastfetch
         fzf
         gcc
         git
+        gimp
         glib
         gparted
         hypridle
@@ -77,6 +82,7 @@
         jmtpfs
         stable.kdePackages.kdenlive
         kitty
+        libreoffice
         mpv
         neovim
         qutebrowser
@@ -86,6 +92,7 @@
         trash-cli
         unzip
         vim 
+        w3m
         waybar
         wlogout
         wl-clipboard
