@@ -6,6 +6,7 @@
             ./hardware-configuration.nix
         ];
     boot.loader.systemd-boot.enable = true;
+    boot.loader.timeout = 0;
     boot.loader.efi.canTouchEfiVariables = true;
     boot.kernelPackages = pkgs.linuxPackages_latest;
     boot.kernelParams = [ "usbcore.autosuspend=-1" ];
@@ -20,6 +21,22 @@
 
     networking.hostName = "nixos-minipc-btw"; 
     networking.networkmanager.enable = true;  
+    networking.firewall = {
+            enable = true;
+                    allowedTCPPorts = [ 80 443 5555 53317 ];
+                    allowedUDPPorts = [ 53317 ];
+                    allowedTCPPortRanges = [
+                            { from = 1714; to = 1764; }
+                    ];
+
+                    allowedUDPPortRanges = [
+                            { from = 4000; to = 4007; }
+                            { from = 8000; to = 8010; }
+                            { from = 1714; to = 1764; }
+                    ];
+    };
+
+
     time.timeZone = "Asia/Dhaka";
     services.gvfs.enable = true;
     services.udisks2.enable = true;
@@ -45,6 +62,22 @@
         enable = true;
         defaultEditor = true;
     };
+        ### game
+    programs.steam = {
+                    enable = true;
+                    remotePlay.openFirewall = true;
+                    dedicatedServer.openFirewall = true;
+                    localNetworkGameTransfers.openFirewall = true;
+                    gamescopeSession.enable = true;
+    };
+    programs.gamemode.enable = true;
+    environment.sessionVariables = {
+                    STEAM_EXTRA_COMPAT_TOOLS_PATHS =
+                                    "\${HOME}/.steam/root/compatibilitytools.d";
+    };
+
+
+
     environment.variables = {
         EDITOR = "nvim";
         VISUAL = "nvim";
@@ -79,10 +112,16 @@
         hypridle
         hyprpolkitagent
         hyprpaper
+        inkscape
         jmtpfs
         stable.kdePackages.kdenlive
+        kdePackages.kdeconnect-kde
+        kdePackages.dolphin
         kitty
         libreoffice
+        localsend
+        lutris
+        masterpdfeditor
         mpv
         neovim
         qutebrowser
@@ -91,6 +130,7 @@
         starship
         trash-cli
         unzip
+        vivaldi
         vim 
         w3m
         waybar
