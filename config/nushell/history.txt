@@ -457,3 +457,643 @@ wpctl clear-default
 wpctl status
 curl wttr.in/nyc
 curl wttr.in/dhaka
+yazi
+cd nixos-dotfiles/
+cd config/
+cd ..
+git staus
+git status
+y
+git status
+git add .
+cd nixos-dotfiles/
+ls
+git diff home.nix
+ls
+git status
+y
+git commit -m "updated flake.lock waybar lan reconfigured hyprland hyprpaper removed unnecessary nushell startup from home.nix"
+git status
+git push -u origin main
+git status
+sudo -E gparted
+for i in /sys/class/hwmon/hwmon*/temp*_input; do echo "$(<$(dirname $i)/name): $(cat ${i%_*}_label 2>/dev/null || echo $(basename ${i%_*})) $(readlink -f $i)"; done
+btop
+bash
+yazi
+lscpu
+ani-cli ragna chrimson --dub
+ani-cli ragna chrimson
+ani-cli ragna crimson --dub
+aria --version
+aria2 --version
+aria2c
+nix-shell -p aria2
+exit
+btop
+ytfzf how to properly install windows 11 on kvm
+cd nixos-dotfiles/
+ls
+git status
+nvim configuration.nix 
+btop
+btop
+bash
+exit
+hyprctl dispatch exit
+ani-cli ragna crimson --dub
+yazi
+ani-cli ragna crimson --dub
+bash
+ani-cli mf ghost --dub
+y
+ani-cli ragna crimson --dub
+yt-x
+yt
+yt-x
+ytfzf
+cd nixos-dotfiles/
+git status
+ani-cli ragna crimson --dub
+yt-dlp 'https://www.youtube.com/watch?v=HGYlXeTWbhc'
+cd Downloads/
+ls
+mpv --log-file=mpv.log 'https://www.youtube.com/watch?v=HGYlXeTWbhc'
+ls
+cat mpv.log 
+cd nixos-dotfiles/
+ls
+git status
+git add .
+ls
+git status
+git commit -m "added missed out config rofi wlogout aria2 download manager"
+git commit
+git status
+git push -u origin main
+git status
+bash
+y
+git status
+git diff home.nix
+git diff configuration.nix
+git status
+git add .
+git status
+balkama
+yazi
+cd nixos-dotfiles/
+ls
+git status
+git add .
+cd
+wa
+balkama
+btop
+reboot
+lsblk
+sudo -E gparted
+btop
+yazi
+hyprctl dispatch exit
+ls
+btop
+balkama<\n>
+btop
+yazi
+balkama
+cat nixos-dotfiles/home.nix
+lscpu
+lsgpu
+btop
+sudo nixos-rebuild boot --flake ~/nixos-dotfiles#nixos-minipc-btw --max-jobs 8 --cores 8
+btop
+sudo nixos-rebuild boot --flake ~/nixos-dotfiles#nixos-minipc-btw --max-jobs 4 --cores 4
+btop
+buggyman
+git status
+cd nixos-dotfiles/
+git status
+vim configuration.nix 
+nvim configuration.nix 
+nvim home.nix 
+nix-flake update
+nix flake update
+cd nixos-dotfiles/
+nix flake update
+sudo nixos-rebuild boot --flake ~/nixos-dotfiles#nixos-minipc-btw --max-jobs 4 --cores 4
+btop
+cd nixos-dotfiles/
+nix flake update
+git status
+git add .
+balkama
+yazi
+git status
+balkama
+btop
+yazi
+git status
+git add .
+balkama
+btop
+neofetch
+btop
+cd nixos-dotfiles/
+ls
+git status
+git diff home.nix
+yazi
+git commit -m "added obs with droidcam kdenlive stable version"
+git status
+git push -u origin main
+sudo -E gparted
+ani-cli mf ghost --dub
+ani-cli mf ghost
+shutdown now
+starship preset catppuccin-powerline -o ~/.config/starship.toml
+yazi
+cd nixos-dotfiles/
+starship preset catppuccin-powerline -o ~/.config/starship.toml
+starship preset jetpack -o ~/.config/starship.toml
+ls
+git status
+pwd
+starship preset tokyo-night -o ~/.config/starship.toml
+starship preset jetpack -o ~/.config/starship.toml
+bat home.nix
+cat home.nix
+sudo echo hallo
+ls
+pwd
+btop
+kdenlive
+git status
+cd nixos-dotfiles/
+ls
+git status
+balkama
+starship preset pastel-powerline -o ~/.config/starship.toml
+cd nixos-dotfiles/
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+fastfetch
+cd nixos-dotfiles/
+browsh
+ls
+w3m nixos search
+w3m search.nixos.org/packages
+nvim configuration.nix 
+y
+yazi
+btop
+cd Downloads/
+ls -la
+bash
+aria2c --help
+aria2c -x 16 -s 16 https://releases.nixos.org/nixos/25.11/nixos-25.11.5198.e576e3c9cf9b/nixos-graphical-25.11.5198.e576e3c9cf9b-x86_64-linux.iso
+balkama
+nix flake update
+cd nixos-dotfiles/
+nix flake update
+balkama
+git status
+git diff configuration.nix
+cd nixos-dotfiles/
+ls
+git status
+git add .
+git status
+git commit -m "added audacity bottles browsh fastfetch gimp libreoffice w3m and fixed kdenlive"
+git status
+git push -u origin main
+git diff configuration.nix
+git status
+sudo -E gparted
+sudo yazi
+y
+aria2c -x 16 -s 16 'https://drive.usercontent.google.com/download?id=1N4KeYJWCGMIhORyaXOmzdYQgkQrCI6m7&export=download&authuser=0&confirm=t&uuid=68433ac5-15ac-4dda-8acd-76c261944ada&at=APcXIO0QBU3KLIfjEbO5JzUhLOe-:1770266895888'
+ls
+unzip "Flip Assets - Kdenlive.zip"
+ls
+cd `Flip - Assets/`
+ls
+y
+ls
+btop
+ani-cli mf ghost --dub
+btop
+df
+dysk
+ani-cli How Not to Summon a Demon Lord --dub
+nvim
+y
+ani-cli How Not to Summon a Demon Lord --dub
+fastfetch
+fastfetch
+lsblk
+lscpu
+yazi
+ani-cli How Not to Summon a Demon Lord --dub
+sudo btop
+ani-cli How Not to Summon a Demon Lord --dub
+btop
+sensors
+turbostat
+bash
+fastfetch
+e
+ani-cli How Not to Summon a Demon Lord --dub
+sudo btop
+ani-cli How Not to Summon a Demon Lord --dub
+lsblk
+btop
+sudo btop
+ani-cli mf ghost --dub
+ani-cli mf ghost 
+nvim
+y
+nvim
+aria2c -x 16 -s 16 https://gitlab.archlinux.org/archlinux/arch-boxes/-/package_files/11028/download
+sudo yazi
+sudo btop
+balkama
+sudo -E gparted
+tree
+sudo yazi
+cd nixos-dotfiles/
+ls
+git status
+git diff configuration.nix
+aria2c -x 16 -s 16 'https://drive.usercontent.google.com/download?id=1DQlxEY5cwi8ugeNQVos0krBteHjPuGPW&export=download&authuser=0&confirm=t&uuid=ae345b63-6b4b-4a32-99d2-28bbd5ef2ccb&at=APcXIO3Me5kbqtBD43aM7Hsu992F%3A1771219329223'
+balkama
+cd Downloads/
+ls
+unzip "9_Need for Speed Most Wanted Magipack.zip"
+ls
+y
+ani-cli Kunon the Sorcerer Can See --dub
+ani-cli Tower of God --dub
+pkill waybar
+waybar
+waybar & disown
+waybar && disown
+waybar disown
+job spawn waybar
+waybar job spawn
+job spawn waybar
+nvim
+y
+cd vimwiki/
+ls
+rm index.wiki
+ls
+touch index.md
+ls
+nvim index.md 
+ani-cli Tower of God --dub
+ani-cli Kunon the Sorcerer Can See
+ani-cli Kunon the Sorcerer Can See --dub
+ani-cli Kunon the Sorcerer Can See
+ani-cli mf ghost 
+ani-cli seven deadly sins
+ani-cli the seven deadly sins
+ani-cli the seven deadly sins --dub
+ani-cli the seven deadly sins
+aria2c -x 16 -s 16 'https://o230m5y6z.mxcontent.net/d/q19q1n7vco6eqm/44uca4t3n9ck2iz2esm2ogjfzlci?ab=0&r=https%3A%2F%2Fm1xdrop.bz%2Ff%2Fq19q1n7vco6eqm'
+aria2c -x 16 -s 16 'https://cdn.pvvstream.pro/videos/-90647749/456265867/vid_720p.mp4?rs=720000&rb=4194304&secure=Sv3TkgfM-vk1KYNUk4LwSA%3D%3D%2C1772036498&dl=1'
+aria2c -x 16 -s 16 'https://bj1139q.cloudatacdn.com/u5kj6kviyhalsdgge642eja2dkdrad4i62hqxuncr3czkj4vzocu7aeybaya/[SisSwap]_Selina_Garcia,_Lily_Jordan_&_40_Swimmer_vs_Cheerleader_Swap_&_40_Selina_Garcia_Debut_&_Lily_Jordan_Returns_After_9_Years&_41_/_02.22.2026&_41_.mp4?token=3wqt18xqqyclxxifu15oyp64&expiry=1772034127302'
+aria2c -x 16 -s 16 https://s55.rapidgator.net/download/e001580b-fc55-4b9c-9c52-451749fb205b
+y
+ls
+unzip 20260222_sisswap_selina_garcia__lily_jordan.zip
+ls
+y
+aria2c -x 16 -s 16 https://fs15.fastfile.cc:183/d/7zqlttaa3l37ewpqxzpgm67lrbsie4zmafthfypr4ut34qhiekket4yiugxinicc2jpvivaz/OjP9936Fw08093J.1080p.rar
+y
+balkama
+ani-cli that time i got reincarnated as a slime --dub
+cd Downloads/sohan/
+ls
+unzip 1.zip 
+y
+kdeconnect
+'kde connect'
+kde connect
+kde-connect
+balkama
+wayba
+waybar
+pkill waybar
+waybar
+cd Downloads/omrfont/
+ls
+unzip omr-bubble-font.zip 
+ls
+y
+ani-cli mf ghost
+adb devices
+bash
+scrcpy --tcpip
+balakam
+balkama
+scrcpy --tcpip
+scrcpy --tcpip=192.168.0.120:5555
+scrcpy
+scrcpy -d
+ani-cli mf ghost
+wpctl status
+ani-cli mf ghost
+ani-cli seven deadly sins
+ani-cli seven deadly sins --dub
+yt-dlp 'https://www.youtube.com/watch?v=JR59JZxxt5U'
+btop
+iwconfig
+nmcli device wifi list
+nmcli device wifi connect "Md. Hadiullah's Galaxy M21" passwd 'habibti420'
+nmcli device wifi connect "Md. Hadiullah's Galaxy M21" password 'habibti420'
+nmcli connection show
+nmcli connection show --active
+aria2c -x 16 -s 16 'https://cdn.pvvstream.pro/videos/-222277972/456242734/vid_720p.mp4?rs=720000&rb=4194304&secure=cNAYqIDn_LfgIApj_qYc1g%3D%3D%2C1773324866&dl=1'
+ani-cli mf ghost
+aria2c -x 16 -s 16 'https://odw7bf.dood.video/u5kj7qvn4tb3sdgge6a5kzq2i56lvxlkxey2zmj6qlctf5wsu6lmbmvvmnva/ANAL_Nuria_Millan_spews_chunky_pink_piss_mess!_Cum_in_wide_open_eye!_Extreme_throat_bulge.mp4?token=x5c32j6k4niqfgzyfspyylow&expiry=1773513887287'
+aria2c 'https://tf971de.cloudatacdn.com/u5kj7qvn4tb3sdgge6a5kzq2i56lvxlkxey2zmj6qlctf5wsu6kaxl7voqvq/ANAL_Nuria_Millan_spews_chunky_pink_piss_mess!_Cum_in_wide_open_eye!_Extreme_throat_bulge.mp4?token=xthu5fqvkaf0q57n78s66g15&expiry=1773513943756'
+ani-cli mf ghost
+ani-cli mf ghost --dub
+ani-cli redo
+ani-cli redo healer
+ani-cli redo healer --dub
+ani-cli redo healer
+nmcli connection show --active
+nmcli connection show
+nmcli device wifi connect "Hadiullah"
+nmcli device wifi connect "Hadiullah" password '17563928'
+nmcli --help
+nmcli -a g
+nmcli -a n
+nmcli -a c
+nmcli -a d
+nmcli -a a
+nmcli -a m
+nmcli -a r
+nmcli radio wifi on
+nmcli device wifi list
+sudo nmcli dev wifi connect "Hadiullah" password "17563928"
+nmcli connection show
+nmcli connection up "Hadiullah"
+nmcli connection delete "Hadiullah"
+sudo nmcli dev wifi connect "Hadiullah" password "17563928"
+sudo nmcli device wifi connect "Hadiullah" password "17563928"
+nmcli connection delete "Hadiullah"
+sudo nmcli device wifi connect "Hadiullah" password "17563928"
+nmcli connection delete "Hadiullah"
+nmcli connection show
+sudo nmcli device wifi connect "Hadiullah" password "17563928"
+sudo yazi
+nmcli connection show
+nmcli connection up "Hadiullah"
+nmcli connection show
+nmcli radio wifi off
+nmcli radio wifi on
+nmcli connection show
+nmcli device status
+nmcli radio wifi on
+nmcli device status
+nmcli connection up "Hadiullah"
+nmcli device status
+ani-cli mf ghost
+sudo btop
+y
+nmcli connection up "Hadiullah"
+ani-cli mf ghost
+ani-cli the testament of sister new devil --dub
+nmcli connection up "Hadiullah"
+ani-cli the testament of sister new devil --dub
+nmcli connection up "Hadiullah"
+nmcli connection show
+ani-cli the testament of sister new devil --dub
+nmcli connection up "Hadiullah"
+y
+balkama
+aria2c -x 16 -s 16 'https://95-216-46-97.top/Getintopc.com/Adobe_Illustrator_2024_v28.2.0.532.rar?md5=2TjK81XjNtsmgszKq-mZuQ&expires=1777127551'
+nmcli connection up "Hadiullah"
+ani-cli the testament of sister new devil --dub
+nmcli connection up "Hadiullah"
+ani-cli triage x --dub
+ani-cli triage
+ani-cli triage --dub
+ani-cli shirokuma cafe
+nmcli connection up "Hadiullah"
+cd nixos-dotfiles/
+ls
+nvim configuration.nix 
+balkama
+steam
+balkama
+y
+cd
+sudo -E gparted
+y
+balkama
+sudo y
+sudo yazi
+lablk
+lsblk
+lsblk -f
+nvim nixos-dotfiles/configuration.nix 
+balkama
+y
+balkama
+lsblk
+y
+balkama
+lsblk
+df
+ls -l /dev/nvme0n1p3
+sudo chmod u=rwx,g=rwx,o= /dev/nvme0n1p3
+y
+ls -l /dev/nvme0n1p3
+sudo chmod u=rwx,g=rwx,o=rwx /dev/nvme0n1p3
+sudo chmod u=rwx,g=rwx,o=rwx /run/media/Drive/
+y
+touch hola.txt
+ls
+y
+scrcpy
+ani-cli mf ghost
+nmcli connection up "Hadiullah"
+y
+yazi .local/share/lutris/pga.db
+nvim .local/share/lutris/pga.db
+sqlite3 .local/share/lutris/pga.db
+nix-shell -p sqlitebrowser
+nmcli connection up "Hadiullah"
+btop
+nmcli connection up "Hadiullah"
+nvim "Games/need-for-speed-most-wanted/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMostWanted.WidescreenFix.ini" 
+lsblk
+y
+nmcli connection up "Hadiullah"
+sudo chmod u=rwx,g=rwx,o=rwx /run/media/
+y
+ani-cli easy going 
+ani-cli easygoing 
+ani-cli easygoing territoory
+ani-cli easygoing territory
+ani-cli easygoing territory --dub
+ani-cli easygoing territory
+nmcli connection up "Hadiullah"
+hyprctl dispatch exit
+nmcli connection up "Hadiullah"
+ani-cli mf ghost
+ani-cli seven deadly sins --dub
+nmcli connection up "Hadiullah"
+sudo nmcli device wifi connect "Akib" password "12345678"
+nmcli device status
+nmcli connection show
+nmcli device wifi list
+sudo nmcli device wifi connect "Akib" password "12345678"
+nmcli connection up "Hadiullah"
+y
+ani-cli tower of gods
+ani-cli tower of god
+wpctl status
+nmcli connection up "Hadiullah"
+wpctl status
+wpctl set-mute 79
+wpctl set-mute 79 toggle
+wpctl set-mute 89 toggle
+aria2c -x 16 -s 16
+aria2c -x 16 -s 16 magnet:?xt=urn:btih:e0a201dd1853f01f3c40d9f16839f37e57331ae2
+nmcli connection up "Hadiullah"
+ani-cli mf ghost
+ani-cli tower of god
+ani-cli mf ghost
+btop
+ani-cli mf ghost
+sudo btop
+btop --json > /tmp/btop.json
+bash
+ls /sys/class/hwmon
+bashh
+ani-cli mf ghost
+nmcli connection up "Hadiullah"
+ani-cli mf ghost
+hyprlock
+nmcli connection up "Hadiullah"
+ani-cli mf ghost
+curl -s 'wttr.in?format=%t' | tr -d '+'
+ani-cli mf ghost
+y
+cd
+sudo curl -sL github.com/justchokingaround/jerry/raw/main/jerry.sh -o /usr/local/bin/jerry &&<\n>sudo chmod +x /usr/local/bin/jerry
+jerry
+y
+bash
+y
+chmod +x jerry.sh 
+y
+jerry
+ls
+jerry.sh
+y
+sudo chmod +x jerry.sh
+ls
+./jerry.sh
+ani-cli mf ghost
+balkama
+ani-cli mf ghost
+scrcpy
+curl wttr.in/dhaka
+curl wttr.in
+cd nixos-dotfiles/
+ls
+git status
+git diff configuration.nix
+cd nixos-dotfiles/
+git add .
+git status
+git restore --staged configuration.nix
+git status
+git diff configuration.nix
+cd nixos-dotfiles/
+git add .
+git commit -m "boot timeout, firewall, steam, inkscape, kdeconnect, dolphin, localsend, lutris, masterpdfeditor, vivaldi"
+git status
+git push -u origin main
+git diff configuration.nix
+lsblk
+sudo yazi
+yazi
+sudo dolphin
+dolphin --sudo
+sudo yazi
+sudo chmod +rw /run/media/.hola
+yazi
+sudo yazi
+yazi
+reboot
+y
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3jaeuw3ehedpghzva.cloudwindow-route.com/engine/download/01/16930/v0giwnz0phco_n.mp4?t=dymdhSGMkmsQWUXPklE_w6Qjhcm08Np2EhJK2JYf6ls&s=1775926245&e=14400&f=84651195&node=zGBu5D2v5eB3O/KB4a4xtvGvDbBUNXxDrrO4ga1VLgc=&i=180.149&sp=25000&asn=131464&n=familytherapyxxx.26.04.08.kaci.kennedy.the.lunch.date.xxx.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3jaeuw3ehedpghzva.cloudwindow-route.com/engine/download/01/16930/dca5xi5keuga_n.mp4?t=PJp8LCkxpXC6PTq6m5w6Q_agBVMITpjjXWcysO-gP7Y&s=1775926437&e=14400&f=84651222&node=zGBu5D2v5eB3O/KB4a4xtvGvDbBUNXxDrrO4ga1VLgc=&i=180.149&sp=25000&asn=131464&n=milfy.26.04.08.andie.anderson.and.angie.faith.busty.blonde.babes.andie.and.angie.share.a.cock.xxx.mp4&d=1'
+aria2c -x 16 -s 16 'https://edge2-waw-sprintcdn.r66nv9ed.com/download/05/04264/dghl0othhvpd_h/hotwife_23_07_26_annabel_redd_480p.mp4?t=9ImkGN7G-7F4yhxjKiWOH_GqFaENuFfqPgQg9SZwu2Q&s=1775933772&e=10800&f=21323177&srv=1070&asn=131464&sp=4000'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n30cbr3b51khzohkjo.cloudwindow-route.com/engine/download/01/14330/o3allwtad1a5_n.mp4?t=9Jimk7ToPt13mr4158kU85c61ruUWa23SwdBeEqcW2I&s=1775934814&e=14400&f=71654688&node=4WnAnj3vMN2qDo4kgT6YmD1YiMn8IgUfLiGJeVFpFdA=&i=180.149&sp=25000&asn=131464&n=88c47a250dbd2212ca.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n32fdigukpmyfidyga.cloudwindow-route.com/engine/download/01/16736/m6lq0eyrrlhu_n.mp4?t=_W7tHHg5Ab2vY0C8sue2EVnodq_-RJQI5j5VSP3SYOc&s=1775935061&e=14400&f=83684430&node=RL6f3ePXF50FOeYOY1y0RmYWgYEw1L8kTpF14dLXy94=&i=180.149&sp=25000&asn=131464&n=brazzersexxtra.26.03.12.danielle.renae.sky.wonderland.and.britt.blair.vacation.fuck.mode.activated.1.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3v1erxe9dtcvj2lqt.cloudwindow-route.com/engine/download/01/16741/c6x1antfkdgu_n.mp4?t=qN93yqfCzRq48KLdWJ1xVOTH7ga4ax2kQc7kjDnY8IQ&s=1775935206&e=14400&f=83709990&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=180.149&sp=25000&asn=131464&n=brazzersexxtra.26.03.13.britt.blair.vacation.fuck.mode.activated.part.2.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3fnvapstiqshd0vet.cloudwindow-route.com/engine/download/01/16894/fbk8suuuqjxo_n.mp4?t=4pN0IKOr0d3uD2OPrnwGqeXe2kNPuY2B5Uw7Rk3zBxc&s=1775935346&e=14400&f=84470643&node=8xQmhgdmyZbNdL+vNOSUbnqqVR6Y+BCfiTNwwVyvyyY=&i=180.149&sp=25000&asn=131464&n=brazzersexxtra.26.04.04.miss.lexa.and.raissa.bellini.lifestyles.of.the.thick.and.famous.mp4&d=1'
+aria2c -x 16 -s 16 https://ugc-cdn-caching-n3p3qosxlihxv3qtq0.cloudwindow-route.com/engine/download/01/16871/tafhbkooyw3k_n.mp4?t=jmdRzV7mS_QlTtLOp7Vl9Oh37N95c5UZ4IMlDsPmdTg&s=1775936344&e=14400&f=84359371&node=lxiKj63/2ULjVa8H1FYfU72ZxLdn02zeCTgM6pfU1O0=&i=180.149&sp=25000&asn=131464&n=brazzersexxtra.26.03.31.alice.wild.and.frances.bentley.massage.for.you.masseur.cock.for.two.mp4&d=1
+aria2c -x 16 -s 16 https://ugc-cdn-caching-n3r8tciajiuxjrx3pr.cloudwindow-route.com/engine/download/01/16883/jajwk4v2vcwu_n.mp4?t=XjNN8MVTgg-1l3rdmk0bM3Ec36eH3N8Aebw09rhh9Zk&s=1775936589&e=14400&f=84418887&node=rnyAsHaLkRiZuBMOE+9Sy63U/hv1xsgp7D495xgI0LU=&i=180.149&sp=25000&asn=131464&n=dpg.26.04.02.zoey.uso.return.of.the.exes.part.1.720p.mp4&d=1
+aria2c -x 16 -s 16 'https://cdn.pvvstream.pro/videos/-157291132/456242605/vid_720p.mp4?rs=720000&rb=4194304&secure=uqUhQVv6Irf6fH1sHoT47A%3D%3D%2C1775941545&dl=1'
+y
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3wtatahculkalrcev.cloudwindow-route.com/engine/download/01/16930/hcinwkk3n6ao_n.mp4?t=CKoX8r5wzSjYHfs69wx-8QDtur-PIW9UxmSVHrrtVWI&s=1775936815&e=14400&f=84651206&node=eISAKDWRd0sgx/+XdP4Hazwt2f5jRKnKL0HD5mv5gRs=&i=180.149&sp=25000&asn=131464&n=dpg.26.04.09.rhae.woods.and.meagan.moore.return.of.the.exes.part.2.720p.mp4&d=1'
+aria2c -x 16 -s 16 'https://videos.netfapx.com/81268.mp4?s=eO6a9m2bZL6l15u1c5-YVA&e=1775947918&file=[Netfapx]81268.mp4'
+y
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3arlsa3dqyis89afy.cloudwindow-route.com/engine/download/01/12367/p2nyaarh2fs3_n.mp4?t=ji7xVx48kbzm2H4QCVkV_VYZFDta2qo_j0qSEzLWxkA&s=1775962413&e=14400&f=61836803&node=J2OaymvSuE80UwLuBnxBiHgR0jn3cRYQt2sOuJSvWao=&i=180.149&sp=25000&asn=131464&n=bigtitcreampie.24.10.05.elana.bunnz.and.keisha.grey.4k.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3bnepu613xxdnwxyr.cloudwindow-route.com/engine/download/01/14957/ssmkxtq5n6ia_n.mp4?t=qfnoiL--KF7oQlc2G2UQfHgATccuz8XNiAHJ7puEY44&s=1775962888&e=14400&f=74786491&node=hblyY0ymAa2El4h+MI0K/30Z29my3bYPeRzJpzYFBgk=&i=180.149&sp=25000&asn=131464&n=BangB---Sara-Retali---The-Incredible-Sara-Retali.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3evm9cessioh4s4ml.cloudwindow-route.com/engine/download/01/15780/oyji7indupf9_n.mp4?t=ONvx1iQebVykW5amv1SgYdRNdvravnkdPw2nHpGt2_8&s=1775963091&e=14400&f=78903097&node=5C9ec2IewNduoiQvOtzmwsCxpanErTGVF2tEZwSD46k=&i=180.149&sp=25000&asn=131464&n=New.Yasmina.Khan.Sara.Retali.Hot.Sweaty.BBC.Gangbang.With.Husband.2025.Anal.DoublePenetration.Hardcore.Milf.Bigtits.BBC.Onlyfans.ILUVY.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3upla4pcujrrkyrai.cloudwindow-route.com/engine/download/01/13689/hmmdcmzql8ov_n.mp4?t=nwVKces2a6XYyqdJsGCGufv-u7BWe1oTm4f1pp78NcI&s=1775963255&e=14400&f=68476324&node=jEH+LZZt+9avlxWinrVBlorAMPEplhqQtb/aHla+H2M=&i=180.149&sp=25000&asn=131464&n=mydirtymaid.25.02.20.sara.retali.mp4&d=1'
+aria2c -x 16 -s 16 'https://cdn2.pvvstream.pro/videos/-227335675/456241058/vid_1080p.mp4?secure=1775963768-uW6MyYGvXLZqQzitP8DUFI3C8YrzgV9qtnLT4rF5D20%3D&dl=1'
+aria2c -x 16 -s 16 'https://cdn77-pr.pvvstream.pro/videos/720/-227595302_456239292.mp4?url=dmt2ZDE1OC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzc2MjIzMjI2MDUwJnNyY0lwPTQ1Ljg0LjI4LjYxJnByPTQwJnNyY0FnPVVOS05PV04mbXM9NDUuMTM2LjIxLjEzMyZ0eXBlPTMmc2lnPUdodk4wUG5mU2dnJmN0PTAmdXJscz05NS4xNjMuMzUuMTYxJmNsaWVudFR5cGU9MTQmYXBwSWQ9NTEyMDAwMzg0Mzk3JmlkPTc0MjIwNTk1NDcxODI&secure=jcWtU9Obi3uqGGMM-DBF7w%3D%3D%2C1776050426&dl=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3kkcaaydxqcwtrsep.cloudwindow-route.com/engine/download/01/16825/ljax1gx7xafj_n.mp4?t=D3jJ8sX0_1C4IABQboneFTPS7GEAk0-RDSIER4pg9Ro&s=1775966113&e=14400&f=84126982&node=pWqV+ZPoqtprtyEAwyk0jtcBRJ1E7KKdFvCtlEKJqAw=&i=180.149&sp=25000&asn=131464&n=assparade.26.03.23.luna.angel.720p.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3dh7hedmyy75bmn9s.cloudwindow-route.com/engine/download/01/16844/uwmrnjvby0kp_n.mp4?t=xQBG18p3ayKwLZxBJ8kuLrGHq1hFXnWRF2NRUcqiBnU&s=1775966273&e=14400&f=84222944&node=MTq2u4C4EJIkZDxvhMr9W5lrXkzZWPRReB7mOtYz2y0=&i=180.149&sp=25000&asn=131464&n=evilangel.26.03.27.luna.legend.mp4&d=1'
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3tyrpwrfsotxcpbf4.cloudwindow-route.com/engine/download/01/15132/jsyqu1mgtb4f_n.mp4?t=DyED-YGiXZQ31vAiA4lc7itEapjvYhctiqfXdkFF0MU&s=1775966368&e=14400&f=75660625&node=f2r1Vv8iA5AXIhJGsylzyb1+Sw3wQ1X8Nyhmz5J/TPI=&i=180.149&sp=25000&asn=131464&n=evilangel.25.08.13.luna.luxe.mp4&d=1'
+aria
+aria2c -x 16 -s 16 'https://edge2-waw-sprintcdn.r66nv9ed.com/download/04/07434/zdwuwoc2ow67_h/2chickssametime_24_11_28_brianna_moon_and_elizabeth_skylar.mp4?t=wBUPcQqxaQUIFfTmbq8FSkrZOMSYy1xQ4LxQI2WPXHU&s=1775966840&e=10800&f=39704805&srv=1075&asn=131464&sp=4000'
+y
+btw
+aria2c -x 16 -s 16 'https://ugc-cdn-caching-n3xprjalyokheokdch.cloudwindow-route.com/engine/download/01/16950/vg9nye297sgh_n.mp4?t=mzVP86NdqJu4nxhza5R4XZQSc3zEQ0XDWprAzXkKfl0&s=1776012363&e=14400&f=84752715&node=LBLtVoSBryykMQ/l836PkBu+LyRlou75KW30snE0LEs=&i=180.149&sp=25000&asn=131464&n=momdrips.26.04.10.artemisia.love.mp4&d=1'
+ara
+ara 'https://ugc-cdn-caching-n3xprjalyokheokdch.cloudwindow-route.com/engine/download/01/16950/vg9nye297sgh_n.mp4?t=mzVP86NdqJu4nxhza5R4XZQSc3zEQ0XDWprAzXkKfl0&s=1776012363&e=14400&f=84752715&node=LBLtVoSBryykMQ/l836PkBu+LyRlou75KW30snE0LEs=&i=180.149&sp=25000&asn=131464&n=momdrips.26.04.10.artemisia.love.mp4&d=1'
+hyprctl dispatch exit
+ara 'https://ugc-cdn-caching-n3xprjalyokheokdch.cloudwindow-route.com/engine/download/01/16950/vg9nye297sgh_n.mp4?t=mzVP86NdqJu4nxhza5R4XZQSc3zEQ0XDWprAzXkKfl0&s=1776012363&e=14400&f=84752715&node=LBLtVoSBryykMQ/l836PkBu+LyRlou75KW30snE0LEs=&i=180.149&sp=25000&asn=131464&n=momdrips.26.04.10.artemisia.love.mp4&d=1'
+ara 'https://cdn2.pvvstream.pro/videos/-165582493/456240082/vid_720p.mp4?secure=1776014317-mjOjV8A7ilkcnf2CayZ%2BZXmPjclF6XMgcFZJMF1esNo%3D&dl=1'
+y
+ara 'https://cdn2.pvvstream.pro/videos/-209655431/456239785/vid_720p.mp4?secure=1776014552-iJfcH%2FhhrN5mYbdOaOQE%2BkkbDGqO%2BM2h3tZMcdnvg6A%3D&dl=1'
+ara 'https://cdn.pvvstream.pro/videos/-165193771/456242209/vid_720p.mp4?rs=720000&rb=4194304&secure=AtcFe4ZXyUsELuf_anIb8A%3D%3D%2C1776018732&dl=1'
+ara 'https://cdn.pvvstream.pro/videos/-101610168/456243822/vid_720p.mp4?rs=720000&rb=4194304&secure=8U_Fn3tOJ4zzCUAX2LGA1A%3D%3D%2C1776017802&dl=1'
+ara 'https://cdn2.pvvstream.pro/videos/-202517923/456239048/vid_720p.mp4?secure=1776015265-SRtTy3IsgTQ%2BU5XqtQEhJE8jw9u2ZfDD775KxSiDDnQ%3D&dl=1'
+ara 'https://cdn77-pr.pvvstream.pro/videos/720/-208191433_456239339.mp4?url=dmt2ZDQ3My5va2Nkbi5ydS8_ZXhwaXJlcz0xNzc2MjUyNjgyNjk5JnNyY0lwPTQ1Ljg0LjI4LjQzJnByPTQwJnNyY0FnPVVOS05PV04mbXM9MTg1LjIyNi41My4yMTcmdHlwZT0zJnNpZz1XeUlNd0xLMHdXUSZjdD0wJnVybHM9NDUuMTM2LjIxLjE2MyZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD02OTM1MDA3MzMyODY1&secure=g8W0A6HS6MrCotCwo-BWXw%3D%3D%2C1776101904&dl=1'
+ara 'https://cdn2.pvvstream.pro/videos/-226742113/456239017/vid_720p.mp4?secure=1776015848-e0tiJx4hhqztcR6jObC8zrHsok5HwWs9EioDieckjtg%3D&dl=1'
+ara 'https://cdn77-pr.pvvstream.pro/videos/1080/-175151124_456243044.mp4?url=dmt2ZDY0NC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzc2Mjc1Mzg1NDYxJnNyY0lwPTQ1Ljg0LjI4LjIwOCZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTE4NS4xODAuMjAzLjE2OSZ0eXBlPTUmc3ViSWQ9NzM5MzI3NTI4NDA1MSZzaWc9S1JLYUlhaGxiOEUmY3Q9MCZ1cmxzPTQ1LjEzNi4yMS4xOTkmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzM5MzEwNDY5Mzg0Mw&secure=ezDEzD2LLPCYKJvdRo5lsg%3D%3D%2C1776102585&dl=1'
+y
+ani-cli mf ghost
+mpv
+btop
+nmcli connection up "Hadiullah"
+ara 'https://yu1090ce.cloudatacdn.com/u5kjxt6pf7blsdgge5k7yzazkcfjzmzfzaad55ty65t3szorv5l2ybgxrkpa/ANAL_PISS_SPEW_RECYCLING_Malafalda_is_mouth_spread_for_SEVERE_THROATFUCK_Degraded_and_used_HARD_1080P.mp4?token=q15qj5gharc8y7a6cmkg1jzq&expiry=1776330756332'
+y
+ara PissVids.ANAL.PISS.SPEW.RECYCLING.Malafalda.is.mouth.spread.for.SEVERE.THROATFUCK.Degraded.and.used.HARD.sxyprn.sxyprn.LegalPorno.PissVids.TobyDickStudio.Malafalda.Anal.Bizarre.Blowjob.DeepThroat.Doggystyle.Dom.mp4.torrent
+nvim "Games/need-for-speed-most-wanted/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMostWanted.WidescreenFix.ini" 
+nvim "Games/need-for-speed-most-wanted/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini" 
+sudo btop
+nvim "Games/need-for-speed-most-wanted/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini" 
+ani-cli mf ghost
+yt-dlp 'https://www.youtube.com/watch?v=QBNCBc-Ifwg&t=76s'
+vivaldi
+nmcli device wifi list
+hyprctl dispatch exit
+nmcli device wifi list
+cd nixos-dotfiles/
+git status
+btop
+cd nixos-dotfiles/
+git status

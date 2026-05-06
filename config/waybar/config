@@ -5,7 +5,7 @@
     "modules-left": [
         "custom/arch",
         "hyprland/workspaces",
-        "hyprland/window"
+        "hyprland/window",
     ],
     "modules-center": [
         "cpu",
@@ -15,6 +15,7 @@
     ],
     "modules-right": [
         "network",
+        "tray",
         "clock",
         "wireplumber"
     ],
@@ -24,6 +25,23 @@
         "tooltip": true,
         "tooltip-format": "btw"
     },
+    "custom/left-arrow-dark": {
+            "format": "",
+            "tooltip": false
+        },
+    "custom/left-arrow-light": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/right-arrow-dark": {
+        "format": "",
+        "tooltip": false
+    },
+    "custom/right-arrow-light": {
+        "format": "",
+        "tooltip": false
+    },
+
     "bluetooth": {
 	"format": " {status}",
 	"format-connected": " {device_alias}",
@@ -107,6 +125,14 @@
        "format": "  {}",
        "format-en": "EN",
        "format-ru": "RU"
+    },
+    "tray": {
+    // "icon-size": 15,
+        "spacing": 5,
+        "icons": {
+            "blueman": "bluetooth",
+            "TelegramDesktop": "$HOME/.local/share/icons/hicolor/16x16/apps/telegram.png"
+        }
     },
     "clock": {
         "format": "{:%I:%M | %e %B} ",

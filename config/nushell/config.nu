@@ -51,4 +51,5 @@ def --env y [...args] {
 }
 
 alias "balkama" = sudo nixos-rebuild switch --flake ~/nixos-dotfiles#nixos-minipc-btw
+alias "ara" = aria2c -x 16 -s 16 
 source ~/.zoxide.nu

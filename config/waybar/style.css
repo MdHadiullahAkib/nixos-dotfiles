@@ -2,14 +2,15 @@
     /* `otf-font-awesome` and SpaceMono Nerd Font are required to be installed for icons */
     font-family: "SpaceMono Nerd Font","JetBrainsMono Nerd Font", sans-serif;
     font-size: 10px;
+    min-height:0px;
     transition: background-color .3s ease-out;
     margin:0;
-    padding:0 5px;
+    padding:0 0px;
 }
 
 window#waybar {
-    background: rgba(26, 27, 38, 0.3);
-    color: #c0caf5;
+    background: transparent;
+    color: white;
     font-family: 
         SpaceMono Nerd Font;
     transition: background-color .5s;
@@ -19,9 +20,9 @@ window#waybar {
 .modules-center,
 .modules-right
 {
-    background: rgba(0, 0, 8, .6);
+   /* background: rgba(0, 0, 8, .6); */
     margin: 0px 0px;
-    border-radius: 10px;
+   /* border-radius: 10px; */
 }
 .modules-left {
 }
@@ -44,11 +45,15 @@ window#waybar {
 #mode,
 #idle_inhibitor,
 #scratchpad,
+#custom-arch,
+#window,
 #power-profiles-daemon,
 #language,
 #mpd {
     border-radius: 10px;
-    margin: 0 3px;
+    background: rgba(0, 0, 18, .7);
+    margin: 0 5px;
+    padding:0 10px;
 }
 
 #clock:hover,
@@ -92,9 +97,10 @@ window#waybar {
     background: #13131d; 
 }
 
-#workspaces button:hover {
+
+#workspaces button.visible {
   background: #11111b;
-  color: #cdd6f4;
+  color: white;
   box-shadow: none;
 }
 
@@ -107,4 +113,14 @@ window#waybar {
 }
 #custom-arch:hover {
     color: #1793d1;
+}
+
+#custom-right-arrow-dark,
+#custom-left-arrow-dark {
+	color: rgba(0, 0, 8, .9);
+}
+#custom-right-arrow-light,
+#custom-left-arrow-light {
+	color: #292b2e;
+	background: #1a1a1a;
 }
