@@ -21,20 +21,6 @@
 
     networking.hostName = "nixos-minipc-btw"; 
     networking.networkmanager.enable = true;  
-    networking.firewall = {
-            enable = true;
-                    allowedTCPPorts = [ 80 443 5555 53317 ];
-                    allowedUDPPorts = [ 53317 ];
-                    allowedTCPPortRanges = [
-                            { from = 1714; to = 1764; }
-                    ];
-
-                    allowedUDPPortRanges = [
-                            { from = 4000; to = 4007; }
-                            { from = 8000; to = 8010; }
-                            { from = 1714; to = 1764; }
-                    ];
-    };
 
 
     time.timeZone = "Asia/Dhaka";
@@ -109,6 +95,7 @@
         gimp
         glib
         gparted
+        hugo
         hypridle
         hyprpolkitagent
         hyprpaper
@@ -147,6 +134,10 @@
         yt-dlp
         ytfzf
         zoxide	
+        #screenshot
+        grim
+        slurp
+        swappy
         #neovim require
         ripgrep
         fd
@@ -176,5 +167,5 @@
     };
     nix.settings.experimental-features = [ "nix-command" "flakes" ];
     nixpkgs.config.allowUnfree = true;
-    system.stateVersion = "25.05"; 
+    system.stateVersion = "25.11"; 
 }
