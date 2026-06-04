@@ -21,6 +21,7 @@
 
     networking.hostName = "nixos-minipc-btw"; 
     networking.networkmanager.enable = true;  
+    networking.firewall.enable = false;
 
 
     time.timeZone = "Asia/Dhaka";
@@ -111,6 +112,8 @@
         masterpdfeditor
         mpv
         neovim
+        nmap
+        pywal16
         qutebrowser
         rofi
         scrcpy

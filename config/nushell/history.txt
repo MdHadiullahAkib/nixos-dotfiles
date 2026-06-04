@@ -1097,3 +1097,641 @@ git status
 btop
 cd nixos-dotfiles/
 git status
+yazi
+reboot
+vim .config/nvim/lua/plugins/vimwiki.lua 
+sudo btop
+hyprctl dispatch exit
+git clone https://github.com/MdHadiullahAkib/nixos-dotfiles.got
+git clone https://github.com/MdHadiullahAkib/nixos-dotfiles.git
+yazi
+cd nixos-dotfiles/
+git status
+git diff configuration.nix
+git diff home.nix
+git diff hardware-configuration.nix
+nvim configuration.nix 
+git add .
+git commit -m "new hardwareconfig version 25.11 and added hugo"
+git config --global user.email "mdhadiullahakib@gmail.com"
+git config --global user.name "hadiullah"
+git commit -m "new hardwareconfig version 25.11 and added hugo"
+git push -u origin main
+sudo yazi
+sudo -E gparted
+ara
+btop
+ara https://mirror.limda.net/linuxmint-iso/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso
+sudo btop
+hyprctl dispatch exit
+sudo btop
+hugo --version
+cd nixos-dotfiles/
+ls
+git status
+hugo 
+balkama
+hugo
+hugo --version
+sudo btop
+ara 'https://bcdnxw.hakunaymatata.com/resource/d6b2fab44dfd8d4031a36172eaa69763.mp4?sign=9c4e5e7c3d20fab54230930c441926aa&t=1778339591'
+sudo btop
+cd Downloads/
+ls
+mkdir nfsmw
+cd nfsmw/
+ls
+unzip "9_Need for Speed Most Wanted Magipack.zip"
+hugo new site new-site
+cd new-site/
+ls
+ls -la
+ls themes/
+ls
+nvim hugo.toml
+cp themes/lugo/static/style.css static/
+hugo server --noHTTPCache
+cd new-site/
+hugo new about.md
+nvim content/about.md
+hugo server --noHTTPCache
+yazi
+y
+ls -l
+ls -l Documents
+ls
+rm Desktop
+ls
+y
+ls
+find akib/ -type l -delete
+find akib/ -t l -delete
+bash
+y
+balkama
+wall -i Downloads/bg.jpg
+wal -i Downloads/bg.jpg
+fastfetch
+wal -i Downloads/bgalkk.jpg
+y
+yazi
+wall -i Downloads/bg.jpg
+wal -i Downloads/bg.jpg
+fastfetch
+cd new-site
+ls
+hugo server --noHTTPCache
+cd new-site
+nvim content/about.md
+hugo new autobiography.md
+nvim content/autobiography.md 
+nvim archetypes/default.md 
+hugo new new-blog-post.md
+nvim content/new-blog-post.md 
+y
+cd ../..
+ls
+y
+balkama
+y
+nvim content/blog/new-blog-post.md 
+nvim content/about.md
+vim content/_index.md
+ls content/
+nvim content/_index.md
+nvim content/blog/_index.md
+yazi
+hugo server --noHTTPCache
+nvim "Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMostWanted.WidescreenFix.ini" 
+nvim "Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini" 
+waybar
+pkill waybar
+waybar
+sudo btop
+man date
+nvim --version
+ani-cli mf ghost
+nix run github:viu-media/viu
+cd new-site/
+cd
+cd new-site/
+ls
+hugo new learning-markdown.md
+ls
+cd new-site/
+nvim content/learning-markdown.md 
+hugo server --noHTTPCache
+hugo new site csecurityroadmap
+cd csecurityroadmap/
+ls
+ls themes/
+git init
+git config --global init.defaultBranch main
+y
+ls
+git status
+git init
+git status
+hugo --version
+hugo version --help
+hugo version
+vivaldi
+cd csecurityroadmap/
+ls
+git submodule add -f https://github.com/mirus-ua/hugo-theme-re-terminal.git themes/re-terminal
+nvim hugo.toml 
+yazi
+cd csecurityroadmap/
+ls
+yazi
+hugo new My-journey-to-learn-CyberSecurity.md
+hugo server --noHTTPCache
+nvim content/My-journey-to-learn-CyberSecurity.md
+cd csecurityroadmap/
+sudo btop
+hugo new lasjf.md
+hugo server --noHTTPCache
+y
+ls
+hugo server -t re-terminal
+git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
+nvim hugo.toml 
+hugo server --noHTTPCache
+go --version
+go
+cd csecurityroadmap/
+ls
+https://github.com/ericmurphyxyz/hugo-starter-theme.git
+git clone https://github.com/ericmurphyxyz/hugo-starter-theme.git themes/starter
+nvim hugo.toml 
+nvim content/lasjf.md 
+y
+hugo server --noHTTPCache
+hugo version
+y
+yazi
+hugo new project quickstart
+hugo new --help
+hugo new site CSJourney
+cd CSJourney/
+git init
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke<\n>
+echo "theme = 'anake'" >> hugo.toml
+cat hugo.toml
+y
+echo "theme = 'ananke'" >> hugo.toml
+cat hugo.toml
+bash
+cd CSJourney/
+hugo server
+cd CSJourney/
+hugo server
+sudo nix flake update
+cd nixos-dotfiles/
+git status
+git diff configuration.nix
+sudo nix flake update
+balkama
+cd nixos-dotfiles/
+ls
+git status
+sudo nix flake update
+balkama
+nix garbage --help
+nix-collect-garbage
+balkama
+cd nixos-dotfiles/
+git status
+git restore flake.lock
+git statu
+git status
+balkama
+hugo version
+cd CSJourney/
+hugo new content first-post.md
+nvim content/first-post.md 
+yazi
+hugo server
+yazi
+cd nixos-dotfiles/
+git status
+sudo nix flake update
+balkama
+yazi
+sudo nix flake update
+git status
+git add .
+git status
+sudo nix flake update
+balkama
+yazi
+balkama
+yazi
+balkama
+sudo nix flake update
+git add .
+nix-collect-garbage
+git status
+git add .
+balkama
+nix log /nix/store/r6kxpsfcvfkcnipf5qdsmszdp1hqrcrb-openldap-2.6.13.drv
+yazi
+sudo nix flake update
+git add .
+balkama
+nix-collect-garbage
+balkama
+yazi
+sudo nix flake update
+balkama
+balkama --impure
+sudo nix flake update
+sudo nix-collect-garbage
+balkama 
+yazi
+balkama 
+reboot
+balkama 
+yazi
+git add .
+cd nixos-dotfiles/
+git add .
+balkama 
+yaz
+yazi
+balkama 
+sudo rm -rf /nix/store/43jk2n1njqk5hqb043r6rhjriav6fyb2-source/pkgs/by-name/st/steam-unwrapped/package.nix
+balkama
+hugo version
+sudo nixos-rebuild switch --rollback
+vivaldi
+cd nixos-dotfiles/
+git status
+cd
+rm -rf nixos-dotfiles/
+git clone https://github.com/MdHadiullahAkib/nixos-dotfiles.git
+cd nixos-dotfiles/
+git status
+git add .
+git status
+git diff configuration.nix
+balkama
+hugo version
+sudo btop
+hugo new site create-theme
+cd create-theme/
+ls
+cd
+yazi
+cd `hugo sites/`
+y
+ls
+hugo new site cyberfolio
+cd cyberfolio/
+ls
+yazi
+ls
+hugo new blue-team-challenge.md
+yazi
+hugo server
+yazi
+hugo server
+yazi
+ls content/
+bash
+y
+cd ..
+ls
+hugo server
+cd HugoSites/cyberfolio/
+hugo server
+yazi
+hugo server
+yazi
+cd HugoSites/cyberfolio/
+yazi
+hugo new content/about/_index.md
+hugo new content/projects/_index.md
+hugo new content/notes/_index.md
+yazi
+hugo new content/notes/test.md
+yazi
+hugo new content/labs/_index.md
+hugo new content notes/tweasting.md
+hugo new content notes/tweastinag2.md
+yazi
+hugo server
+cd HugoSites/cyberfolio/
+hugo server
+cd HugoSites/cyberfolio/
+hugo server
+y
+cd HugoSites/cyberfolio/
+hugo server
+yazi
+cd nixos-dotfiles/
+ls
+git status
+git diff configuration.nix
+git restore --staged configuration.nix
+git diff configuration.nix
+git restore --staged home.nix
+git diff home.nix
+git add .
+git commit -m "new hardwareconfig version 25.11 and added hugo and screenshot"
+git status
+ls -al ~/.ssh
+ssh-keygen -t ed25519 -C "mdhadiullahakib@gmail.com"
+eval "$(ssh-agent -s)"
+bash
+cd nixos-dotfiles/
+git status
+git push -u origin main
+git remore set-url origin git@github.com:MdHadiullahAkib/nixos-dotfiles.git
+git remote set-url origin git@github.com:MdHadiullahAkib/nixos-dotfiles.git
+git status
+git push -u origin main
+cd
+cd HugoSites/cyberfolio/
+ls -la
+git init
+git status
+git add .
+git status
+hugo
+git status
+git add .
+git status
+git commit -m "first commit"
+git branch -M main
+git remore add origin git@github.com:MdHadiullahAkib/cyberfolio.git
+git remote add origin git@github.com:MdHadiullahAkib/cyberfolio.git
+git push -u origin main
+hugo server --noHTTPCache
+curl wttr.in
+curl wttr.in/Chapainawabganj
+curl wttr.in/Chapainawabganj?u
+curl wttr.in/Chapainawabganj?m
+curl wttr.in/Chapainawabganj
+curl wttr.in/Chapainawabganj?format=%t
+curl wttr.in/Chapainawabganj?format=%t | tr -d '+'
+curl wttr.in/Chapainawabganj?format=%t 
+cd HugoSites
+ls
+hugo new site mtenc
+cd mtenc/
+git clone https://github.com/vaga/hugo-theme-m10c.git themes/hugo-theme-m10c
+ls
+nvim hugo.toml 
+yazi
+cd ../
+hugo new site papermod
+cd papermod/
+ls
+y
+hugo server --noHTTPCache
+y
+curl wttr.in/Chapainawabganj?format=%t 
+curl wttr.in/Chapainawabganj
+curl wttr.in/Chapainawabganj?format=%t | tr -d '+' | -10
+curl wttr.in/Chapainawabganj?format=%t | tr -d '+' 
+10-2
+cd HugoSites/cyberfolio/
+git status
+cd HugoSites/
+yazi
+y
+bash
+yazi
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+hugo
+yazi
+hugo server --noHTTPCache
+hugo
+git status
+git add .
+git status
+git commit -m "added homepage resume and made responsive"
+git push -u origin main
+git status
+ssh -T git@github.com
+cd HugoSites/cyberfolio/
+git status
+cd HugoSites/cyberfolio/
+git status
+git subtree split --prefix public -b site-deploy
+git status
+git push origin site-deploy:deploy --force
+git branch -D site-deploy
+git status
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+hugo
+yazi
+git status
+yazi
+hugo
+yazi
+git status
+git add .
+git commit -m "updated baseurl to fix file paths"
+git subtree split --prefix public -b site-deploy
+git push origin site-deploy:deploy --force
+git branch -D site-deploy
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+yazi
+hugo server --noHTTPCache
+hugo server --baseURL="https://mdhadiullahakib.github.io/cyberfolio/"
+git status
+cd HugoSites/cyberfolio/
+git status
+yazi
+hugo server --noHTTPCache
+yazi
+hugo
+yazi
+git status
+git diff public/index.html
+git diff layouts/index.html
+cd HugoSites/cyberfolio/
+yazi
+hugo server --noHTTPCache
+yazi
+cd HugoSites/cyberfolio/
+yazi
+hugo server --withBaseURL
+yazi
+hugo server --noHTTPCache
+yazi
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+git status
+git restore .
+git status
+git show commit
+git log
+yazi
+cd HugoSites/cyberfolio/
+git status
+hugo server --noHTTPCache
+yazi
+git status
+cd HugoSites/cyberfolio/
+git diff content/_index.md
+git diff layouts/index.html
+yazi
+git status
+yazi
+hugo
+git status
+git add .
+git status
+git commit -m "resolved all file path updated template"
+git push -u origin main
+git subtree split --prefix public -b site-deploy
+git push origin site-deploy:deploy --force
+git branch -D site-deploy
+git status
+curl wttr.in/Chapainawabganj
+cd HugoSites/cyberfolio/
+hugo
+yazi
+hugo new content notes/tweastingimage.md
+yazi
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+hugo
+yazi
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+yazi
+hugo server --noHTTPCache
+git status
+touch deployhugo.sh
+nvim deployhugo.sh
+chmod +x deployhugo.sh
+ls
+./deployhugo.sh
+bash
+./deployhugo.sh
+nvim deployhugo.sh
+./deployhugo.sh
+cd HugoSites/cyberfolio/
+git status
+cd HugoSites/cyberfolio/
+git status
+cd
+./deployhugo.sh
+nvim deployhugo.sh
+yazi
+cd HugoSites/cyberfolio/
+hugo new content notes/showcase.md
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+HUGO_MINIFY_TDEWOLFF_HTML_KEEPCOMMENTS=true HUGO_ENABLEMISSINGTRANSLATIONPLACEHOLDERS=true hugo && grep -inorE "<\!-- raw HTML omitted -->|ZgotmplZ|\[i18n\]|\(<nil>\)|(&lt;nil&gt;)|hahahugo" public/
+bash
+nvim content/notes/showcase.md 
+yazi
+git status
+hugo new content notes/learning-hugo.md
+nvim content/notes/learning-hugo.md 
+git status
+hugo server --noHTTPCache
+firewall
+cd nixos-dotfiles/
+git status
+yazi
+git add .
+balkama
+sudo btop
+y
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+nvim /home/akib/Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini
+nvim Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini
+nvim Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/'NFSMWExtraOptionsSettings.ini'
+vim "Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini" 
+ani-cli mf ghost
+vim "Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini" 
+cd HugoSites/cyberfolio/
+yazi
+hugo new learning-progress.md
+yazi
+hugo new content 'notes/Roadmap/Fundamental IT Skills/cisco-introduction-to-cybersecurity.md'
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+yazi
+hugo server --noHTTPCache
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+vim "Games/nfsmw/drive_c/MagiPacks/Need for Speed - Most Wanted/scripts/NFSMWExtraOptionsSettings.ini" 
+cd HugoSites/cyberfolio/
+yazi
+vivaldi
+btop
+cd HugoSites/cyberfolio/
+yazi
+hugo server --noHTTPCache
+y
+ani-cli mf ghost
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+yazi
+cd HugoSites/cyberfolio/
+hugo server --noHTTPCache
+yazi
+cd nixos-dotfiles/
+git status
+git diff configuration.nix
+ls
+git status
+git diff configuration.nix
+cd HugoSites/cyberfolio/
+balkama
+nmap
+nmap 192.168.0.101
+yazi
+ara 'https://software.download.prss.microsoft.com/dbazure/Win11_25H2_English_x64_v2.iso?t=e328dc8f-cb68-4958-b39b-1a93d434b0b1&P1=1780580952&P2=602&P3=2&P4=hAnHxVlmGClJiDTFkD3gtnAVEXsx0zO0eHOTihWJbeKA2qejl2c%2BeiSFSvTMmxW9rR5L73Z8QPIutxk77bLEkYRnRI5iWOMRojO%2B8q9O%2BVWJ3MLFNPUVv7KxTfM1%2F2D%2BGDP04kr2nwOOYiT0Pc8UFTDS0QeGJro5IrDzOK9XMgfumrGztp2YesB3TSkSU33a3HpBIXpslw6Tck5RTPEpOgKoIlM94BxMj9oyU3m7UtGAVdad707H%2FFWNJP0CPpm0q1zyHD0uK6aAzJqxXfzDojoDKgSfsui%2Bgu5TgqDBhcyhiJjJZLOovdpT0L7btqL%2BcFhvszwxe7FM%2Bzl69j1e%2Fg%3D%3D'
+nix-shell -p ventoy
+yazi
+balkama
+y
+yazi
+hyprctl dispatch exit
+wal -i Downloads/bg.jpg
+wall -i Downloads/bg.jpg
+wal -i Downloads/bg.jpg
+wal
+bash
+nix-shell -p pywall
+balkama
+yazi
+balkama
+wal -i Downloads/bg.jpg
+waybar
+pkill waybar
+neofetch
+fastfetch
+cd nixos-dotfiles/
+ls
+git status
+sudo nix flake update
+balkama
+alias balkama
+sudo nixos-rebuild boot --flake ~/nixos-dotfiles#nixos-minipc-btw
+reboot
+cd nixos-dotfiles/
+git status
+hyprlock
+waybar
+ara 'https://188-40-118-208.top/Getintopc.com/Adobe_Premiere_Pro_v23.2.0.69.rar?md5=u5PPlK4f9GUrOMBBH3z5xQ&expires=1783144093'
+ara 'https://5-9-52-164.top/Getintopc.com/Adobe_Illustrator_2024_v28.2.0.532.rar?md5=1--zPEccCNrX4w-HmfuaOQ&expires=1783148365'
+hyprlock
+yazi
+yazi

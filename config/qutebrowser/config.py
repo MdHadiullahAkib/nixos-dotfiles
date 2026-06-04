@@ -134,11 +134,13 @@ c.statusbar.padding = {'bottom': 0, 'left': 0, 'right': 0, 'top': 0}
 #   - top
 #   - bottom
 c.statusbar.position = 'bottom'
+c.statusbar.show = 'in-mode'
 
 # Scaling factor for favicons in the tab bar. The tab size is unchanged,
 # so big favicons also require extra `tabs.padding`.
 # Type: Float
 c.tabs.favicons.scale = 0.8
+c.tabs.favicons.show = 'never'
 
 # How to behave when the last tab is closed. If the
 # `tabs.tabs_are_windows` setting is set, this is ignored and the
@@ -151,6 +153,7 @@ c.tabs.favicons.scale = 0.8
 #   - default-page: Load the default page.
 #   - close: Close the window.
 c.tabs.last_close = 'startpage'
+c.tabs.indicator.width = 0
 
 # Position of the tab bar.
 # Type: Position
@@ -160,7 +163,7 @@ c.tabs.last_close = 'startpage'
 #   - left
 #   - right
 c.tabs.position = 'bottom'
-
+c.tabs.show = 'switching'
 # Which tab to select when the focused tab is removed.
 # Type: SelectOnRemove
 # Valid values:
@@ -176,7 +179,6 @@ c.tabs.select_on_remove = 'last-used'
 #   - never: Always hide the tab bar.
 #   - multiple: Hide the tab bar if only one tab is open.
 #   - switching: Show the tab bar when switching tabs.
-c.tabs.show = 'always'
 
 # Position of ellipsis in truncated title of tabs.
 # Type: ElidePosition
@@ -186,6 +188,7 @@ c.tabs.show = 'always'
 #   - middle
 #   - none
 c.tabs.title.elide = 'right'
+c.tabs.title.format = '{audio}{index}:{current_title}'
 
 # Wrap when changing tabs.
 # Type: Bool
@@ -219,5 +222,5 @@ c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={}', 'goog': 'https
 
 
 config.bind(',q', 'hint links spawn --detach mpv {hint-url}')
-config.bind('xb', 'config-cycle statusbar.show always never')
-config.bind('xt', 'config-cycle tabs.show always never')
+config.bind('xb', 'config-cycle statusbar.show always never in-mode')
+config.bind('xt', 'config-cycle tabs.show always never switching')
